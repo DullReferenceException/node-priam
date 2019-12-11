@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.0.1
+
+Bug fix:
+- Fix the `queryFailed` event so it includes an error parameter.
+
 ## 4.0.0
 
 This major release is geared toward internal performance improvements and removing some legacy code cruft relating to the now-defunct dual driver support.
